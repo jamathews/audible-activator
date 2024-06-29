@@ -59,3 +59,4 @@ target/
 chromedriver
 
 activation.blob
+.DS_Store
